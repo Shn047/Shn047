@@ -4,7 +4,7 @@ Software engineer focused on **AI and data systems**, based in Bangkok. I'm a fi
 
 I build software that turns data into working products, from production data pipelines to LLM-powered apps.
 
-**[Portfolio](https://shn047.github.io)** · **[LinkedIn](https://www.linkedin.com/in/swan-htet-naing047)** · **[Résumé](https://shn047.github.io/assets/resume.pdf)** · swanhtetnaing065@gmail.com
+**[Portfolio](https://shn047.github.io)** · **[LinkedIn](https://www.linkedin.com/in/swan-htet-naing047)** · swanhtetnaing065@gmail.com
 
 ### Featured work
 
